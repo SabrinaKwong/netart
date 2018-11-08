@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="main.css">
   </head>
       <body>
-      <h3><a href="">Speak</a></h3>
-      <h3><a href="">Listen</a></h3>
+      <h3><a href="Speak">page 2</a></h3>
+      <h3><a href="Listen">page 3</a></h3>
       </body>
     </html>
