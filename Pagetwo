@@ -7,8 +7,8 @@
   </head>
       <body>
         <h1> Let's Journey </h1>
-      <h3><a href="">page 2</a></h3>
-      <h3><a href="">page 3</a></h3>
+      <h3><a href="pagetwo.html">Listen</a></h3>
+      <h3><a href="pagethree.html">Speak</a></h3>
 
 
       </body>
