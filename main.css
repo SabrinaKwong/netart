@@ -13,6 +13,16 @@ body {
 
 }
 
+video {
+  margin-top: 50px;
+
+}
+
+.zipper1-vid{
+  background-color: #96add3;
+  padding: 50px;
+}
+
 h1 {
   color: #6969CBBB;
   padding: 20px 0px 10px 0px;
