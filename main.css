@@ -1,24 +1,20 @@
 body {
-
-  background-color: #0000cd;
+  background-color: #FFFFFF;
   /*  background-image: url(Art75Sec3/videoWorkFlowTemplate/Github/netart/Images/lantern-2639711_960_720.jpg);
   background-repeat: no-repeat;
   background-size: cover;*/
-
   margin: 30px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
-
 }
 
 video {
   margin-top: 50px;
-
 }
 
-.zipper1-vid{
+.zipper1-vid {
   background-color: #96add3;
   padding: 50px;
 }
@@ -26,7 +22,6 @@ video {
 h1 {
   color: #6969CBBB;
   padding: 20px 0px 10px 0px;
-
 }
 
 a {
