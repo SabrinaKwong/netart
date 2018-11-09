@@ -1,4 +1,5 @@
 var img;
+
 function preload() {
   img = loadImage('Images/article2.jpg');
 }
